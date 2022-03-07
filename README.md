@@ -1,14 +1,28 @@
-# Project
+# Multilingual Application Toolkit Samples
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This repo contains samples that demonstrate the localization workflow for users of the Multilingual Application Toolkit Visual Studio extension.
 
-As the maintainer of this project, please make a few updates:
+You can also use GitHub Issues to submit feedback, report bugs, or ask questions.
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+
+# With the Toolkit you can:
+    - Add new langauges
+    - Export translations
+    - Recyle existing translations
+    - Generate machine translations
+    - Genereate a translation status report
+
+
+# Getting Started
+
+1. Clone this repo
+2. Open a Solution under `samples/` in Visual Studio
+3. Refer to the readme included with the sample for guidance on use.
+
+
+# Documention
+
+The documention is avaible [here](https://docs.microsoft.com/windows/apps/design/globalizing/use-mat).
 
 ## Contributing
 

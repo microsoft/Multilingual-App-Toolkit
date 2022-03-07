@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="FareWell" xml:space="preserve">
+    <value>Hasta luego</value>
+  </data>
+  <data name="Para.Text" xml:space="preserve">
+    <value>Microsoft recopila datos de usted, a través de nuestras interacciones con usted y a través de nuestros productos. Usted proporciona algunos de estos datos directamente, y nosotros obtenemos parte de ellos mediante la recopilación de datos sobre sus interacciones, uso y experiencias con nuestros productos. Los datos que recopilamos dependen del contexto de sus interacciones con Microsoft y de las elecciones que realice, incluida su configuración de privacidad y los productos y características que utilice. También obtenemos datos sobre usted de terceros.</value>
+  </data>
+  <data name="Title.Text" xml:space="preserve">
+    <value>Documento</value>
+  </data>
+  <data name="Title2.Text" xml:space="preserve">
+    <value>Declaración de privacidad</value>
+  </data>
+</root>
