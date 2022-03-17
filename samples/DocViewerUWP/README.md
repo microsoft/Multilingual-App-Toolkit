@@ -1,4 +1,4 @@
-Before enabling the Multilingual Application Toolkit (MAT) in a UWP project, the source culture must be set. To set the default langauge first open `Package.appxmanifest`. From the Application tab, set the feault language.
+Before enabling the Multilingual Application Toolkit (MAT) in a UWP project, the source culture must be set. To set the default langauge first open `Package.appxmanifest`. From the Application tab, set the default language.
 
 Once MAT is enabled, you should add resource files if you don't yet have any.
 
