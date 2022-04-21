@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="ar" original="DOCVIEWER ASP.NET CORE 6 MVC/RESOURCES/RESOURCES.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6921.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="DOCVIEWER ASP.NET CORE 6 MVC/RESOURCES/RESOURCES.RESX" datatype="resx">
+        <trans-unit id="HomeContent" translate="yes" xml:space="preserve">
+          <source>This is a demostration content in home page</source>
+          <target state="new">This is a demostration content in home page</target>
+        </trans-unit>
+        <trans-unit id="HomeTitle" translate="yes" xml:space="preserve">
+          <source>Home Page</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">الصفحة الرئيسية</target>
+        </trans-unit>
+        <trans-unit id="Welcome" translate="yes" xml:space="preserve">
+          <source>Welcome</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">مرحبًا</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
